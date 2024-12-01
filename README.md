@@ -1,13 +1,47 @@
-- 👋 Hi, I’m @Sleepingjassu
- aka Rucheer
-- 👀 I’m interested in Coding 
-- 🌱 I’m currently learning Everything 
-- 💞️ I’m looking to collaborate on [ not now ]
-- 📫 How to reach me Dm me on discord @itzjassu_
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Im a myself 
+# Sleepingjassu 🌙
 
-<!---
-Sleepingjassu/Sleepingjassu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm **Sleepingjassu**, a software developer, passionate about building user-friendly applications,creating visually stunning designs. When I'm not coding, you can probably find me exploring new tech tools, gaming, reading fantasy novels.
+
+---
+
+## 🛠️ Skills & Tools
+- **Languages**: C++, Python
+- **Frontend**: HTML5, Css
+- **Backend**: Node.js
+- **Database**: MongoDB, SQLite3
+- **Other Tools**: Git
+
+---
+
+## 🌟 Projects
+Here are some highlights of my work:
+(#)
+
+Explore my repositories for more!
+
+---
+
+## 📚 Learning Goals
+Currently, I'm diving into:
+- Machine Learning with Python
+- Cloud computing with AWS
+- Mobile app development with Flutter
+
+---
+
+## 🌐 Let's Connect
+I'm always open to collaborating and learning from others! Feel free to reach out:
+- **Email**: yrucheer@gmail.com
+- **LinkedIn**: (#)
+- **Twitter**: (#)
+
+---
+
+## 📄 Fun Facts
+- **Why Sleepingjassu?** Coz its me.
+- **Hobbies**: Gaming, Reading Novels, Learning new things
+- **Dream Project**: It's a pretty much secret 🤫
+
+---
+
+Thanks for stopping by! 😊
